@@ -1,6 +1,6 @@
-# flutter_app
+# note_app
 
-A new Flutter project.
+A note app with firebase cloude and auth 
 
 ## Getting Started
 
